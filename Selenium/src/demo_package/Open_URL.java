@@ -9,7 +9,7 @@ public class Open_URL {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\12179\\Downloads\\chromedriver-win32\\chromedriver-win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://demowebshop.tricentis.com/");
-		System.out.println("Application Launched");
+		System.out.println("Application is Launched");
 	}
 
 }
